@@ -68,12 +68,6 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 📸 Preview
-
-(Add a screenshot of your project here if you want)
-
-------------------------------------------------------------------------
-
 ## 🔮 Future Improvements
 
 -   Add a **"Roll Dice" button** instead of refresh-only.
