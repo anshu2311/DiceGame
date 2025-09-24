@@ -1,4 +1,4 @@
-# 🎲 Dicee Game
+#  Dicee Game
 
 A simple **dice rolling game** built using **HTML, CSS, and
 JavaScript**.\
@@ -7,7 +7,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
     Dicee/
     │── index.htm       # Main HTML file
@@ -17,7 +17,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 🚀 How It Works
+## How It Works
 
 1.  The page loads with two dice (Player 1 and Player 2).
 2.  JavaScript generates **random numbers (1--6)** for each player.
@@ -29,7 +29,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 -   **HTML5** -- Page structure\
 -   **CSS3** -- Styling and layout\
@@ -38,7 +38,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 🎮 How to Play
+## How to Play
 
 1.  Clone or download this repository.
 
@@ -59,7 +59,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## ✨ Features
+## Features
 
 -   Random dice rolls for two players.
 -   Dynamic result display (Player 1 wins / Player 2 wins / Draw).
@@ -68,7 +68,7 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
+## Future Improvements
 
 -   Add a **"Roll Dice" button** instead of refresh-only.
 -   Keep **score history** of wins/draws.
@@ -76,6 +76,6 @@ are rolled randomly, and the winner is displayed.
 
 ------------------------------------------------------------------------
 
-## 👩‍💻 Author
+## Author
 
 Made with ❤️ by **Anshu Kumari**
